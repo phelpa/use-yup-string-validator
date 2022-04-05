@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-yarn add use-yup-string-validator
+yarn add react-use-yup-string-validator
 ```
 
 ## Usage
